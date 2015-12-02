@@ -1,5 +1,5 @@
 {
-  "name": "quaternion",
+  "name": "quaternion.js",
   "version": "v0.9.0",
   "description": "Quaternion class for Javascript",
   "main": "Quaternion.js",
