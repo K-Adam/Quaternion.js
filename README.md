@@ -11,7 +11,7 @@ npm install quaternion.js --save
 
 Bower:
 ```
-bower install quaternion --save
+bower install quaternion.js --save
 ```
 
 Or just simply download the `Quaternion.js` file, and include it in your html.

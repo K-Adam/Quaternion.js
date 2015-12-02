@@ -1,7 +1,7 @@
 {
   "name": "Quaternion",
   "main": "Quaternion.js",
-  "version": "0.9",
+  "version": "0.9.1",
   "description": "Quaternion class for Javascript",
   "keywords": [
     "math",
