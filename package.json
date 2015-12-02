@@ -4,5 +4,9 @@
   "description": "Quaternion class for Javascript",
   "main": "Quaternion.js",
   "author": "Ádám Kecskés",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deadmanswitch/Quaternion.js"
+  }
 }
