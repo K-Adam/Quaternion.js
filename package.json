@@ -1,6 +1,6 @@
 {
   "name": "quaternion",
-  "version": "0.9",
+  "version": "v0.9.0",
   "description": "Quaternion class for Javascript",
   "main": "Quaternion.js",
   "author": "Ádám Kecskés",
