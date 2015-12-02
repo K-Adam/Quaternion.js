@@ -21,13 +21,6 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  */
-
- /*
- TODO: Define polars
- rotate x,y,z
- scale x,y,z
- translate x,y,z
- */
  
 (function(base) {
     
